@@ -1,4 +1,4 @@
-require File.expand_path(File.dirname(__FILE__) + '/../lib/blue_ridge')
+require File.expand_path(File.dirname(__FILE__) + '/../blue_ridge')
 
 def error_message_for_missing_spec_dir 
   %Q{Could not find JavaScript test directory.

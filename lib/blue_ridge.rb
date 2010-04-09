@@ -2,7 +2,7 @@ module BlueRidge
   JavaScriptSpecDirs = ["examples/javascripts", "spec/javascripts", "test/javascript"]
   
   def self.plugin_prefix
-    ENV["BLUE_RIDGE_PREFIX"] || "#{RAILS_ROOT}/vendor/plugins/blue-ridge"
+    ENV["BLUE_RIDGE_PREFIX"] || "#{Rails.root}/vendor/plugins/blue-ridge"
   end
   
   def self.rhino_command
