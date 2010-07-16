@@ -1,7 +1,6 @@
-*NOTE* Blue Ridge is no longer officially supported by Relevance.
-We recommend you check out Jasmine by Pivotal Labs instead: 
-  http://github.com/pivotal/jasmine
-====================================================================================
+*NOTE:* Blue Ridge is no longer officially supported by Relevance.
+We recommend you check out [Jasmine](http://github.com/pivotal/jasmine) by Pivotal Labs instead.
+<hr/>
 
 Blue Ridge JavaScript Testing Rails Plugin
 ==========================================
